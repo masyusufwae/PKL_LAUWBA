@@ -13,6 +13,9 @@ Perusahaan yang bergerak di bidang:
 - IT Training  
 - Digital Marketing  
 
+## 📍 Alamat 
+Perum. Lembayung Residance No.8, Mejing Kidul, Ambarketawang, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55294
+
 ## 📌 Deskripsi Kegiatan
 
 Selama kegiatan PKL, saya bersama tim mengerjakan proyek berbasis web sekaligus mempelajari teknologi yang digunakan dalam proses pengembangannya. Kegiatan ini tidak hanya berfokus pada hasil akhir, tetapi juga pada proses pembelajaran secara langsung di dunia kerja.
@@ -52,8 +55,8 @@ Proyek yang dikerjakan merupakan aplikasi berbasis web yang dirancang dengan tam
 
 ## ✍️ Penulis
 
-- Muhammad Yusuf  
-- (Tambahkan anggota kelompok jika ada)
+- Masyusufwae
+- serta teman teman (ziidanzii & Thermaplates)
 
 ## 📌 Catatan
 
